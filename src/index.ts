@@ -1,5 +1,5 @@
-import Formio from 'formiojs';
+import Formio from 'formiojs-eorion';
 import * as components from './components';
 export * from './components';
 
-export {Components, Formio, Utils, Templates} from 'formiojs';
+export {Components, Formio, Utils, Templates} from 'formiojs-eorion';

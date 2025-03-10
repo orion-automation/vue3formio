@@ -1,5 +1,5 @@
 import { ref } from 'vue';
-import FormioFormBuilder from 'formiojs/FormBuilder';
+import FormioFormBuilder from 'formiojs-eorion/FormBuilder';
 import InitializeFormBuilderOptions from '../../intefaces/formBuilder/initializeFormBuilderOptions';
 
 export default function useInitializeBuilder(props, context, options: InitializeFormBuilderOptions) {

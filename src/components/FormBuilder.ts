@@ -1,7 +1,7 @@
 /* globals console, Promise */
 import { defineComponent, onMounted, onUnmounted } from 'vue';
-import AllComponents from 'formiojs/components';
-import Components from 'formiojs/components/Components';
+import AllComponents from 'formiojs-eorion/components';
+import Components from 'formiojs-eorion/components/Components';
 Components.setComponents(AllComponents);
 
 import useFormioRef from '../composables/useFormioRef';

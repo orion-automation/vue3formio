@@ -1,5 +1,5 @@
 import { ref } from 'vue';
-import FormioForm from 'formiojs/Form';
+import FormioForm from 'formiojs-eorion/Form';
 import InitializeFormOptions from '../../intefaces/form/initializeFormOptions';
 
 export default function useInitializeForm(props, context, options: InitializeFormOptions) {
