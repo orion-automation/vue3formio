@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/formio/vue-formio.git"
+    "url": "git+https://github.com/orion-automation/vue3formio.git"
   },
   "keywords": [
     "Form.io",
@@ -21,9 +21,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/formio/vue-formio/issues"
+    "url": "https://github.com/orion-automation/vue3formio/issues"
   },
-  "homepage": "https://github.com/formio/vue-formio#readme",
+  "homepage": "https://github.com/orion-automation/vue3formio#readme",
   "peerDependencies": {
     "formiojs-eorion": "^0.0.8",
     "vue": "^3.4.15"
