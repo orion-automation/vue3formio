@@ -25,14 +25,14 @@
   },
   "homepage": "https://github.com/orion-automation/vue3formio#readme",
   "peerDependencies": {
-    "formiojs-eorion": "^0.1.67",
+    "formiojs-eorion": "^0.1.68",
     "vue": "^3.4.15"
   },
   "devDependencies": {
     "@types/node": "^18.17.5",
     "@types/vue": "^2.0.0",
     "@vue/compiler-sfc": "^3.4.15",
-    "formiojs-eorion": "^0.1.67",
+    "formiojs-eorion": "^0.1.68",
     "typescript": "^5.3.3",
     "typescript-eslint-parser": "^22.0.0",
     "vite": "^5.0.12",
