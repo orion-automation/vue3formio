@@ -1,6 +1,6 @@
 {
   "name": "vue3-formio-eorion",
-  "version": "0.0.38",
+  "version": "0.0.39",
   "description": "A vue.js renderer for form.io forms.",
   "main": "dist/index.umd.cjs",
   "module": "dist/index.js",
